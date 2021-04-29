@@ -1,0 +1,1 @@
+<h4>Hallo, nama saya Mr. PHP. <br/>Saya telah memilih secara random sebuah bilangan bulat. Silakan Anda menebak ya!</h4>
